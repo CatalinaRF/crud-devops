@@ -113,6 +113,7 @@ def eliminarUsuario():
 def menu():
     while True:
         print("=== Bienvenido al Sistema CRUD de Usuarios ===") 
+        #21 05 2025
         print("-" * 60) 
         print("=== Menu CRUD ===")
         print("1. Insertar Usuario")
